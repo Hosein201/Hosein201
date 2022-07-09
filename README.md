@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <p align="center">
  <a href="#" alt="Hossein Golmohamamdi's github stats">
