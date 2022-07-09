@@ -1,7 +1,7 @@
 <p align = "center">
    <a href="#" alt="Hossein Golmohamamdi's github stats">
   <img src = "https://github-readme-stats.vercel.app/api?username=hosein201&show_icons=true&theme=dark" width="400">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=hosein201&theme=dark&hide_border=true" width="400">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=hosein201&theme=dark" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosein201&layout=compact&theme=dark&bg_color=0A0A0A" width="400" alt="Hossein Golmohammadi Top Languages"/>
 </p>
 
