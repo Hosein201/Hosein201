@@ -1,13 +1,12 @@
 ## My Statistics
-<hr/>
+<br/>
 <p align = "center">
    <a href="#" alt="Hossein Golmohamamdi's github stats">
   <img src = "https://github-readme-stats.vercel.app/api?username=hosein201&show_icons=true&theme=dark" width="400">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=hosein201&theme=dark" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosein201&layout=compact&theme=dark&bg_color=0A0A0A" width="400" alt="Hossein Golmohammadi Top Languages"/>
 </p>
-   <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
+<hr/>
 ![Hossein Golmohammadi' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hosein201&custom_title=Hossein%20Golmohammadi's%20Contribution%20Graph&theme=dark&bg_color=282828&line=d1a01f&point=c58545)
 
 <!--
