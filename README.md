@@ -1,5 +1,6 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-## My Statistics
+<h5>you can talk with me about .Net Core,Clean architecture, TSql, NoSql and ...<h5>
+##My Statistics
 <br/>
 <p align = "center">
    <a href="#" alt="Hossein Golmohamamdi's github stats">
