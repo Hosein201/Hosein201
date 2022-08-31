@@ -3,6 +3,8 @@
 ##My Statistics
 <br/>
 <p align = "center">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hossein-golmohammadi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/hossein-golmohammadi?trk=profile-badge">Hossein Golmohammadi</a></div>
+              
    <a href="#" alt="Hossein Golmohamamdi's github stats">
   <img src = "https://github-readme-stats.vercel.app/api?username=hosein201&show_icons=true&theme=dark&bg_color=0A0A0A" width="400">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=hosein201&theme=dark&bg_color=0A0A0A" width="400">
